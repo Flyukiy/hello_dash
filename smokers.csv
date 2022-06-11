@@ -1,0 +1,10 @@
+"type","filter","Total","Drinking","Less than once per month","2-3 per month","1-2 times per week","2-4 times per week","Everyday","No drinking","Quiter","Never"
+"Total","Total",100,64.4,26.8,29.1,28.3,10.8,5,35.6,43,57
+"Smoking","Smokers",100,85.5,12.5,24.1,36.1,17.8,9.6,14.5,61,39
+"Smoking","Non smoker",100,58.2,33,31.3,24.9,7.7,3.1,41.8,41.2,58.8
+"Smoking","Quit smoking",100,72.5,18.3,27,32.7,14.8,7.1,27.5,76.2,23.8
+"Smoking","Never smoked",100,54.1,38.8,32.9,21.8,5,1.5,45.9,35,65
+"Cigarettes","10 per day",100,85.6,13.4,27.4,39.6,14.2,5.4,14.4,63,37
+"Cigarettes","11-20 per day",100,85.4,11.8,21.6,33.9,20.5,12.2,14.6,57.4,42.6
+"Cigarettes","21-20 per day",100,87.9,11.1,15.7,23.3,25.7,24.2,12.1,72.9,27.1
+"Cigarettes","31 or more per day",100,79.1,6.5,14.6,22.1,28.9,27.9,20.9,74.4,25.6
